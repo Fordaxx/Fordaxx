@@ -40,23 +40,11 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Fordaxx/Fordaxx/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+<img src="https://raw.githubusercontent.com/RuslanDX/RuslanDX/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 <div align="center">
 </div>
